@@ -1,0 +1,148 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#menu1{
+background: #303030;
+margin-left: 0px;
+margin-top: 0px;
+padding: 50px;
+padding-bottom: 150px;
+}
+
+#titulo-superior{
+color: #FFFFFF;
+height: 50px;
+top: 50px;
+margin-left: 10px;
+padding-top: 150px;
+font-size: 37px;
+}
+
+#titulo-inferior{
+color: #FFFFFF;
+height: 2px;
+top: 50px;
+margin-left: 10px;
+padding-top: 10px;
+font-size: 16px;
+ }
+
+#menu2{
+background: #F9F9F9;
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+width: 1349px;
+height: 110px;
+padding-top: 50px;
+}
+
+.titulo{
+    font-size: 25px;
+    text-align: justify;
+    margin-left: 100px;
+    color: #000000;
+}
+
+.paragrafo{
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+text-align: justify;
+color: #000000;
+}
+
+#menu3 {
+display: grid;
+grid-auto-flow: column;
+columns: auto;
+width: 1349px;
+height: 400px;
+padding-top: 70px;
+padding-bottom: 70px;
+background-color: white
+}
+
+#titulo3{
+font-size: 30px;
+text-align: justify;
+margin-left: 150px;
+padding-top: 0px;
+margin-top: 0px;
+padding-top: 100px;
+padding-left: 20px;
+color: #000000
+}
+
+#paragrafo3{
+font-size: 16px;
+font-family: Inter;
+font-weight: 400;
+line-height: 28px;
+text-align: justify;
+color: #000000;
+}
+
+#desafio{
+width: 400px;
+height: 420px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+padding-bottom: 100px;
+padding-top: 0px;
+padding-left: 100px;
+}
+
+#menu4{
+background-color: #303030;
+padding-bottom: 80px;
+
+}
+
+#titulo4{
+margin: 50px;
+padding-top: 50px;
+color:#FFFFFF;
+text-align: center;
+margin-left: 45px;
+font-size: 23px;
+}
+
+input{
+Width: 300px;
+Height: 40px;
+background: #FFFFFF;
+margin: 15px;
+border: 0px;
+border-radius: 5px;
+padding-left: 10px;
+}    
+
+#formulario{
+text-align: center;
+padding-top: 0px
+}
+
+button{
+background-color: #C07212;
+color: #FFFFFF;
+font-size: 16px;
+Width: 200px;
+Height: 38px;
+border-radius: 5px;
+margin: 15px;
+border: 0px;
+margin-top: 35px;
+cursor: pointer;
+margin-right: 1px;
+margin-left: 3px;
+}
+
+button:hover{
+background-color: #f79721d3;
+transform: translateY(-5px);
+transition-duration: 0,7s;
+}
