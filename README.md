@@ -1,5 +1,5 @@
 # projeto-desafiodnc
-Este é o meu projeto do módulo base de tecnologia do curso da Escola DNC
+Este é o meu primeiro desafio do módulo base de tecnologia do curso da Escola DNC
 
 link do site disponibilizado: https://desafiofinal-dnc.netlify.app/
 
